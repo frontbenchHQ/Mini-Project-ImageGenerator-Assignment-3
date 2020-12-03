@@ -36,11 +36,13 @@ The task for this project is to make a random image generator that shows a rando
 
 - [ ]  Submit the Code Repo Link.
 
+
+
+**Deadline for Project** - **MONDAY** **, December 7, 12PM ( DAY 6)**
+
 ## About Frontbench Camp
 
 Frontbench FullStack Camp is 12 weeks online camp to help people learn full-stack web development by building project. In 12 weeks, you build 12 (mini + major) project with 1:1 Mentor and peer community support.
 
 To Know more and see our closed cohort sessions, visit --- [LINK](https://bit.ly/33kujsS)
 
-
-**Deadline for Project** - **MONDAY** **, December 7, 12PM ( DAY 6)**

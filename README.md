@@ -24,9 +24,9 @@ The task for this project is to make a random image generator that shows a rando
 - [ ] Create a Component `ImageDisplay` which has an `img` tag and a loader (Loader can simply be text `Loading....` as well ).
 - [ ] Create a button in the `App` Component with text `Get New Image` and import `ImageDisplay` component in it.
 - [ ] Checkout the documentation at [https://picsum.photos/](https://picsum.photos/) to know about how to use it for getting  a random image.
-- [ ] Use  `fetch`  to make an API call to the `URL` to be used.
+- [ ] Use  `fetch`  to make an API call to the `URL` from **picsum** documentation on `Get New Image` Button click.
 - [ ] Display Loader/Image accordingly (show loader until image is fetched from api, once image is received, hide loader and show the image).
-- [ ] Get first image automatically when your react app is Loaded.
+- [ ] Get first image automatically when your react app is Loaded from picsum api as well.
 
 **NOTE:**
 
